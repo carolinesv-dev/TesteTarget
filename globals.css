@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --black: rgba(0, 0, 0, 0.4);
+  --gray-300: #242424;
+  --gray-200: #535353;
+  --gray-100: #ccc;
+  --white: #fff;
+
+  --green-300: #4d791a;
+  --green-200: #76ad23;
+  --green-100: #7ec72a;
+}
